@@ -39,7 +39,7 @@ The application consists of a single React component (`App.jsx`) that handles al
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/jaxxtothemaxx/sales-dashboard.git
     cd sales-dashboard
     ```
 
